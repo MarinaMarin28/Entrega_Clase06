@@ -1,0 +1,29 @@
+[{
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+        "id": 1
+    },{
+        "title": "Goma",
+        "price": 12.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+        "id": 2
+    },
+	{
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+        "id": 3
+    }, {
+        "title": "Carpeta",
+        "price": 29.99,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+        "id": 4
+    },
+	{
+        "title": "Fibron",
+        "price": 2.99,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/fibron.png",
+        "id": 5
+    }
+]
